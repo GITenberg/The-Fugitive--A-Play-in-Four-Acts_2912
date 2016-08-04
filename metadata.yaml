@@ -1,0 +1,29 @@
+_repo: The-Fugitive--A-Play-in-Four-Acts_2912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: 'This 1913 play is a study of that peculiar English malady: good form.
+  Clare Dedmond, the unhappy wife of George Dedmond, longs for a life of freedom and
+  art. A friendship with the novelist Malise seems to offer her the chance to escape
+  the deadening Dedmond household . . . but at a great cost.'
+gutenberg_issued: '2004-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+- GITenberg
+title: 'The Fugitive: A Play in Four Acts'
+url: http://www.gutenberg.org/ebooks/2912
